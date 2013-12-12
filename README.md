@@ -1,4 +1,3 @@
-Slim-CyanogenMod
-================
-
-Slim CyanogenMod é um projeto Open Source que agiliza processos de reposição
+android_device_samsung_janice
+===============
+Slim CyanogenMod for Galaxy S Advance (GT-I9070)
